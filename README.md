@@ -4,10 +4,10 @@
 ---
 
 ```yaml
-langs: [ python, lua, sql, js, go, batch, shell ]
-areas: [ sysadmin, devops, techops, back-end, apis, iac, automation,
-         dns, email, linux, docs, selfhost, glue ]
-tools: [ archlinux, neovim, zsh, tmux, kitty, awesomewm, chromium ]
-likes: [ coding, reading, cycling, scifi, puzzles, silence ]
+langs: [ python, lua, sql, js, go, batch, shell, &general ]
+areas: [ sysadmin, devops, back-end, apis, iac, automation,
+         dns, email, linux, docs, glue, apis, selfhosting ]
+tools: [ archlinux, neovim, zsh, tmux, kitty, awesomewm, firefox ]
+likes: [ coding, reading, cycling, pixel-art, scifi, puzzles, silence ]
 # https://noyaml.com/
 ```
