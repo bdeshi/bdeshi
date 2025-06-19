@@ -7,5 +7,6 @@ langs: [ python, shell, sql, js, go, lua, &general ]
 areas: [ platform-eng, sre, cloud, sys-admin, automation, linux, self-hosting ]
 tools: [ archlinux, neovim, vscode, zsh, kitty, awesomewm, hyprland, firefox, vivaldi, obsidian ]
 likes: [ coding, cycling, reading, scifi, pixelart, puzzles, crafts ]
+fears: [ html, !velociraptors ]
 ```
 💡 https://bdeshi.space/resume
