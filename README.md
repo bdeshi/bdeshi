@@ -4,8 +4,8 @@
 
 ```yaml
 langs: [ python, shell, sql, js, go, lua, &general ]
-areas: [ sre, devops, cloud, sys-admin, iac, automation, back-end, linux, docs, rest, apis, self-hosting ]
-tools: [ archlinux, neovim, vscode, zsh, kitty, awesomewm, hyprland, firefox, vivaldi ]
+areas: [ platform-eng, sre, cloud, sys-admin, automation, linux, self-hosting ]
+tools: [ archlinux, neovim, vscode, zsh, kitty, awesomewm, hyprland, firefox, vivaldi, obsidian ]
 likes: [ coding, cycling, reading, scifi, pixelart, puzzles, crafts ]
 ```
 💡 https://bdeshi.space/resume
